@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil Raju Nilkanthache
-- 👀 I’m interested in programming, data science, statistics, and even mathematics
-- 🌱 I’m currently learning algotithms and multiple programming languages
+- 👀 I’m interested in programming, data science, statistics, and mathematics
+- 🌱 I’m currently learning Database Design and Design and Analysis of Computer Algorithms
 - 📫 Reach me at my linkedin page: https://www.linkedin.com/in/sahil-nilkanthache/
 
 <!---
